@@ -7,5 +7,8 @@
     <div>
       <h1> php start </h1>
     </div>
+    <script>
+      alert(" login successfully")
+    </script>
   </body>
 </html>
