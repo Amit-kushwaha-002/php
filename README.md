@@ -9,6 +9,7 @@
     </div>
     <script>
       alert(" login successfully")
+      var a=prompt("enter any number ")
     </script>
   </body>
 </html>
