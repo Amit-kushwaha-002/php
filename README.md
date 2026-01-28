@@ -11,5 +11,8 @@
       alert(" login successfully")
       var a=prompt("enter any number ")
     </script>
+    <?php
+    echo "PHP";
+    ?>
   </body>
 </html>
